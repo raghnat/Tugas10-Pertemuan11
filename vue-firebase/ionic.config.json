@@ -1,0 +1,10 @@
+{
+  "name": "vue-firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "serve": {
+    "port": 8100
+  }
+}
